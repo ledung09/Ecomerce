@@ -1,0 +1,33 @@
+/* DateTimePicker.css */
+
+/* Customize the container */
+.date-time-picker-container {
+  display: inline-block;
+  font-family: Arial, sans-serif;
+}
+
+/* Customize the date input */
+.react-datepicker-wrapper {
+  display: inline-block;
+}
+
+/* Customize the date input field */
+.react-datepicker__input-container {
+  display: block;
+}
+
+/* Customize the time input field */
+.react-datepicker-time__input {
+  width: 60px; /* Adjust the width as needed */
+  padding: 8px;
+  font-size: 14px;
+}
+
+/* Customize the dropdown */
+.react-datepicker__time-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+/* Add your additional styles as needed */
